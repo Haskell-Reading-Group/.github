@@ -1,5 +1,13 @@
 # Haskell Reading Group
 
+## Welcomee
+
+**Welcome to the Haskell Reading Group!**
+
+We are a group of Haskell enthusiast currently going through [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell) by Will Kurt.
+
+All are welcome. Join us on Discord: https://discord.gg/3qKSXDa7re
+
 ## Rules
 - Read through the weeks material before the meeting
 - Sign-up to present a section
